@@ -1,4 +1,4 @@
-It also include a test.       
+It also includes a test.       
 Before you run the test, you have to change the web site url that you want to test.    
 
 How to run the test      
